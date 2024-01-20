@@ -1,11 +1,10 @@
 Este repositorio contiene una aplicación de base de datos desarrollada en Java utilizando NetBeans, centrada en la NBA (National Basketball Association). La aplicación ofrece una plataforma para almacenar y gestionar datos relacionados con equipos, jugadores, partidos y estadísticas de la NBA.
 Aquí os dejo unas de capturas de como es la base de datos:
 
-
-![captura0](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/0450bcd3-38cb-48ca-936a-67c1eb802244)
-![captura1](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/bf72e9af-f96d-4e4a-a58c-e6fc5cbd7036)
-![captura4](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/9d890edf-e6db-441e-95ea-96b79af47038)
-![captura3](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/66ec5696-5ed7-4441-9e8b-13c786559aed)
+![captura2](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/d01a825a-e0c6-4faf-af46-aae7d705c038)
+![captura1](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/1c9986f5-4f13-45f6-88d4-12e435400e9f)
+![captura0](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/f6770b26-456e-4869-a36f-137b71b72aa1)
+![captura3](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/867c5187-cbf6-493a-a8e2-c77f362be6d2)
 
 
 ## Cómo Utilizar
