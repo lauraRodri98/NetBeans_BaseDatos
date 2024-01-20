@@ -7,7 +7,8 @@ Aquí os dejo unas de capturas de como es la base de datos:
 - **Conexión a la Base de Datos:** Utiliza JDBC para establecer una conexión segura y eficiente con la base de datos.
   
 ![captura0](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/9ce42d98-3d7a-4545-a2f6-9018ef484006)
-![captura1](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/1c9986f5-4f13-45f6-88d4-12e435400e9f)
+![captura1](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/e53142dd-7e80-45c7-bad8-83b66f99b646)
+<br>
 ![captura2](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/d01a825a-e0c6-4faf-af46-aae7d705c038)
 ![captura3](https://github.com/lauraRodri98/NetBeans_BaseDatos/assets/131816452/867c5187-cbf6-493a-a8e2-c77f362be6d2)
 
